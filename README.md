@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DevRelix
+- 👀 I’m interested in Networking/Security
+- 🌱 I’m currently learning to improve in C coding Language
+- 💞️ I’m looking to collaborate on Nothing
+- 📫 How to reach me Discord: Relix#0001
